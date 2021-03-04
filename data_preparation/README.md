@@ -32,7 +32,7 @@ Data Cleaning, Feature Selection, and Data Transforms in Python
       21: Quantile Transform
       22: Discretization Transform
       23: Polynomial Transform
-    
+  
     Part 5: Advanced Transforms
     24: Transform Numerical and Categorical Data
     25: Transform the Target in Regression
